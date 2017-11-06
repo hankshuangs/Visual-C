@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="CPC" EntityNamespace="nCPC" ContextNamespace="nCPC" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.ListPrice" Member="ListPrice">
+    <Type Name="ListPrice">
+      <Column Name="ProductID" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="ProductName" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="Prices" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

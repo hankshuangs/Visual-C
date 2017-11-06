@@ -1,0 +1,42 @@
+﻿<items>
+        <item id="1">
+		<description>部落格•網誌人氣排名提升與行銷的不傳秘技</description>
+		<price>380</price>
+	</item>
+        <item id="2">
+		<description>Visual Basic 2008程式設計經典教本</description>
+		<price>650</price>
+	</item>
+        <item id="3">
+		<description>Visual C#2008 程式設計實例演練與系統開發</description>
+		<price>650</price>
+	</item>
+	<item id="4">
+		<description>Java視窗應用程式設計與SCJP認證實戰演</description>
+		<price>580</price>
+	</item>
+	<item id="5">
+		<description>e世代必學實用軟體密技應用實務</description>
+		<price>490</price>
+	</item>
+	<item id="6">
+		<description>Windows Mobile 6應用程式設計與操控實務</description>
+		<price>580</price>
+	</item>
+	<item id="7">
+		<description>Visual Basic 2005 進銷存系統開發實務設計</description>
+		<price>620</price>
+	</item>
+	<item id="8">
+		<description>掌握Hadoop翱翔雲端：Windoop應用實作指南</description>
+		<price>500</price>
+	</item>
+  <item id="9">
+		<description>Visual C#2005建構資訊系統實戰經典教本</description>
+		<price>650</price>
+	</item>
+  <item id="10">
+		<description>Visual Basic 2005 Express程式設計經典教本</description>
+		<price>580</price>
+	</item>
+</items>

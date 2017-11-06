@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\GZipStream_ex\GZipStream_ex\bin\Debug\GZipStream_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\GZipStream_ex\GZipStream_ex\bin\Debug\GZipStream_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\GZipStream_ex\GZipStream_ex\bin\Debug\GZipStream_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\GZipStream_ex\GZipStream_ex\obj\Debug\GZipStream_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\GZipStream_ex\GZipStream_ex\obj\Debug\GZipStream_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\GZipStream_ex\GZipStream_ex\obj\Debug\GZipStream_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\GZipStream_ex\GZipStream_ex\obj\Debug\GZipStream_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\GZipStream_ex\GZipStream_ex\obj\Debug\GZipStream_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\GZipStream_ex\GZipStream_ex\obj\Debug\GZipStream_ex.pdb

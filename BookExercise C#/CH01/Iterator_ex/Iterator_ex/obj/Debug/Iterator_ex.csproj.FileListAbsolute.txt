@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\Iterator_ex\Iterator_ex\bin\Debug\Iterator_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\Iterator_ex\Iterator_ex\bin\Debug\Iterator_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Iterator_ex\Iterator_ex\bin\Debug\Iterator_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\Iterator_ex\Iterator_ex\obj\Debug\Iterator_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\Iterator_ex\Iterator_ex\obj\Debug\Iterator_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Iterator_ex\Iterator_ex\obj\Debug\Iterator_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Iterator_ex\Iterator_ex\obj\Debug\Iterator_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\Iterator_ex\Iterator_ex\obj\Debug\Iterator_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Iterator_ex\Iterator_ex\obj\Debug\Iterator_ex.pdb

@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\ObjectInitalizers_ex\ObjectInitalizers_ex\bin\Debug\ObjectInitalizers_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\ObjectInitalizers_ex\ObjectInitalizers_ex\bin\Debug\ObjectInitalizers_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\ObjectInitalizers_ex\ObjectInitalizers_ex\bin\Debug\ObjectInitalizers_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\ObjectInitalizers_ex\ObjectInitalizers_ex\obj\Debug\ObjectInitalizers_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\ObjectInitalizers_ex\ObjectInitalizers_ex\obj\Debug\ObjectInitalizers_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\ObjectInitalizers_ex\ObjectInitalizers_ex\obj\Debug\ObjectInitalizers_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\ObjectInitalizers_ex\ObjectInitalizers_ex\obj\Debug\ObjectInitalizers_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\ObjectInitalizers_ex\ObjectInitalizers_ex\obj\Debug\ObjectInitalizers_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\ObjectInitalizers_ex\ObjectInitalizers_ex\obj\Debug\ObjectInitalizers_ex.pdb

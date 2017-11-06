@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\Sequence_ex\Sequence_ex\bin\Debug\Sequence_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\Sequence_ex\Sequence_ex\bin\Debug\Sequence_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Sequence_ex\Sequence_ex\bin\Debug\Sequence_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\Sequence_ex\Sequence_ex\obj\Debug\Sequence_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\Sequence_ex\Sequence_ex\obj\Debug\Sequence_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Sequence_ex\Sequence_ex\obj\Debug\Sequence_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Sequence_ex\Sequence_ex\obj\Debug\Sequence_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\Sequence_ex\Sequence_ex\obj\Debug\Sequence_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Sequence_ex\Sequence_ex\obj\Debug\Sequence_ex.pdb

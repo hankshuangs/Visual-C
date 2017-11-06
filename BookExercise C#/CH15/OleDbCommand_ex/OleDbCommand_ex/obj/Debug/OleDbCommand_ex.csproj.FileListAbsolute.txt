@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\OleDbCommand_ex\OleDbCommand_ex\bin\Debug\OleDbCommand_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\OleDbCommand_ex\OleDbCommand_ex\bin\Debug\OleDbCommand_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\OleDbCommand_ex\OleDbCommand_ex\bin\Debug\OleDbCommand_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\OleDbCommand_ex\OleDbCommand_ex\obj\Debug\OleDbCommand_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\OleDbCommand_ex\OleDbCommand_ex\obj\Debug\OleDbCommand_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\OleDbCommand_ex\OleDbCommand_ex\obj\Debug\OleDbCommand_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\OleDbCommand_ex\OleDbCommand_ex\obj\Debug\OleDbCommand_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\OleDbCommand_ex\OleDbCommand_ex\obj\Debug\OleDbCommand_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\OleDbCommand_ex\OleDbCommand_ex\obj\Debug\OleDbCommand_ex.pdb

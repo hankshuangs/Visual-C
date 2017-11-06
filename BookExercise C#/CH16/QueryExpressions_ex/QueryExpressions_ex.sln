@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryExpressions_ex", "QueryExpressions_ex\QueryExpressions_ex.csproj", "{99344F05-CC4D-458E-80C1-D6225E004EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99344F05-CC4D-458E-80C1-D6225E004EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99344F05-CC4D-458E-80C1-D6225E004EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99344F05-CC4D-458E-80C1-D6225E004EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99344F05-CC4D-458E-80C1-D6225E004EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

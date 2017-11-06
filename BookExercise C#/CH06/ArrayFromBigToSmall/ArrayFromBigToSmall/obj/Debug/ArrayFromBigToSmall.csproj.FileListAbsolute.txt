@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayFromBigToSmall\ArrayFromBigToSmall\bin\Debug\ArrayFromBigToSmall.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayFromBigToSmall\ArrayFromBigToSmall\bin\Debug\ArrayFromBigToSmall.exe
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayFromBigToSmall\ArrayFromBigToSmall\bin\Debug\ArrayFromBigToSmall.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayFromBigToSmall\ArrayFromBigToSmall\obj\Debug\ArrayFromBigToSmall.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayFromBigToSmall\ArrayFromBigToSmall\obj\Debug\ArrayFromBigToSmall.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayFromBigToSmall\ArrayFromBigToSmall\obj\Debug\ArrayFromBigToSmall.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayFromBigToSmall\ArrayFromBigToSmall\obj\Debug\ArrayFromBigToSmall.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayFromBigToSmall\ArrayFromBigToSmall\obj\Debug\ArrayFromBigToSmall.exe
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayFromBigToSmall\ArrayFromBigToSmall\obj\Debug\ArrayFromBigToSmall.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH06\ArrayFromBigToSmall\ArrayFromBigToSmall\bin\Debug\ArrayFromBigToSmall.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH06\ArrayFromBigToSmall\ArrayFromBigToSmall\obj\Debug\ArrayFromBigToSmall.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH06\ArrayFromBigToSmall\ArrayFromBigToSmall\obj\Debug\ArrayFromBigToSmall.pdb

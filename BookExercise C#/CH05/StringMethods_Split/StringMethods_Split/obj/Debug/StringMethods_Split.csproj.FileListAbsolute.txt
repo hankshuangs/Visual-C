@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Split\StringMethods_Split\bin\Debug\StringMethods_Split.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Split\StringMethods_Split\bin\Debug\StringMethods_Split.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Split\StringMethods_Split\bin\Debug\StringMethods_Split.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Split\StringMethods_Split\obj\Debug\StringMethods_Split.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Split\StringMethods_Split\obj\Debug\StringMethods_Split.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Split\StringMethods_Split\obj\Debug\StringMethods_Split.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Split\StringMethods_Split\obj\Debug\StringMethods_Split.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Split\StringMethods_Split\obj\Debug\StringMethods_Split.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Split\StringMethods_Split\obj\Debug\StringMethods_Split.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Split\StringMethods_Split\bin\Debug\StringMethods_Split.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Split\StringMethods_Split\obj\Debug\StringMethods_Split.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Split\StringMethods_Split\obj\Debug\StringMethods_Split.pdb

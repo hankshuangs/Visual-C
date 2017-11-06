@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService_ex", "WcfService_ex\WcfService_ex.csproj", "{7D85E1B3-A8F2-484F-A27F-E0E37B8128E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormClient_ex", "WinFormClient_ex\WinFormClient_ex.csproj", "{FCC81AEF-3B78-4C01-BB12-F7D0AC2EF637}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7D85E1B3-A8F2-484F-A27F-E0E37B8128E0} = {7D85E1B3-A8F2-484F-A27F-E0E37B8128E0}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D85E1B3-A8F2-484F-A27F-E0E37B8128E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D85E1B3-A8F2-484F-A27F-E0E37B8128E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D85E1B3-A8F2-484F-A27F-E0E37B8128E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D85E1B3-A8F2-484F-A27F-E0E37B8128E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC81AEF-3B78-4C01-BB12-F7D0AC2EF637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC81AEF-3B78-4C01-BB12-F7D0AC2EF637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC81AEF-3B78-4C01-BB12-F7D0AC2EF637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC81AEF-3B78-4C01-BB12-F7D0AC2EF637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\AccessConnection\AccessConnection\bin\Debug\AccessConnection.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\AccessConnection\AccessConnection\bin\Debug\AccessConnection.exe
+c:\users\ryu\documents\visual studio 2013\Projects\AccessConnection\AccessConnection\bin\Debug\AccessConnection.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\AccessConnection\AccessConnection\obj\Debug\AccessConnection.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\AccessConnection\AccessConnection\obj\Debug\AccessConnection.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\AccessConnection\AccessConnection\obj\Debug\AccessConnection.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\AccessConnection\AccessConnection\obj\Debug\AccessConnection.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\AccessConnection\AccessConnection\obj\Debug\AccessConnection.exe
+c:\users\ryu\documents\visual studio 2013\Projects\AccessConnection\AccessConnection\obj\Debug\AccessConnection.pdb

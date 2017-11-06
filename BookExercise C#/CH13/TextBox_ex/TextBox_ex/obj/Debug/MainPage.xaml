@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="TextBox_ex.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TextBox_ex"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock HorizontalAlignment="Left" Margin="424,72,0,0" TextWrapping="Wrap" Text="請您輸入產品註冊碼?" VerticalAlignment="Top" FontSize="36"/>
+        <TextBox x:ConnectionId='1' x:Name="txtSN" HorizontalAlignment="Left" Margin="370,149,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="48" Width="683" FontSize="20"                                />
+        <Button x:ConnectionId='2' x:Name="btnOK" Content="確定" HorizontalAlignment="Left" Margin="370,248,0,0" VerticalAlignment="Top" Height="62" Width="140" FontSize="20"                    />
+        <Button x:ConnectionId='3' x:Name="btnClear" Content="清除" HorizontalAlignment="Left" Margin="555,251,0,0" VerticalAlignment="Top" Height="59" Width="137" FontSize="20"                       />
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\Joining_ex\Joining_ex\bin\Debug\Joining_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\Joining_ex\Joining_ex\bin\Debug\Joining_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Joining_ex\Joining_ex\bin\Debug\Joining_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\Joining_ex\Joining_ex\obj\Debug\Joining_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\Joining_ex\Joining_ex\obj\Debug\Joining_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Joining_ex\Joining_ex\obj\Debug\Joining_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Joining_ex\Joining_ex\obj\Debug\Joining_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\Joining_ex\Joining_ex\obj\Debug\Joining_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Joining_ex\Joining_ex\obj\Debug\Joining_ex.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH16\Joining_ex\Joining_ex\bin\Debug\Joining_ex.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH16\Joining_ex\Joining_ex\obj\Debug\Joining_ex.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH16\Joining_ex\Joining_ex\obj\Debug\Joining_ex.pdb

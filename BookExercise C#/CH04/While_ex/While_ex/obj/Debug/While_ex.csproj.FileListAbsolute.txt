@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\While_ex\While_ex\bin\Debug\While_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\While_ex\While_ex\bin\Debug\While_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\While_ex\While_ex\bin\Debug\While_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\While_ex\While_ex\obj\Debug\While_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\While_ex\While_ex\obj\Debug\While_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\While_ex\While_ex\obj\Debug\While_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\While_ex\While_ex\obj\Debug\While_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\While_ex\While_ex\obj\Debug\While_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\While_ex\While_ex\obj\Debug\While_ex.pdb

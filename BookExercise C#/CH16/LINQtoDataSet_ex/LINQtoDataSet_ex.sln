@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQtoDataSet_ex", "LINQtoDataSet_ex\LINQtoDataSet_ex.csproj", "{27953FFA-03CE-441C-A7BE-9AA2B1970392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27953FFA-03CE-441C-A7BE-9AA2B1970392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27953FFA-03CE-441C-A7BE-9AA2B1970392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27953FFA-03CE-441C-A7BE-9AA2B1970392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27953FFA-03CE-441C-A7BE-9AA2B1970392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayClassMethod\ArrayClassMethod\bin\Debug\ArrayClassMethod.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayClassMethod\ArrayClassMethod\bin\Debug\ArrayClassMethod.exe
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayClassMethod\ArrayClassMethod\bin\Debug\ArrayClassMethod.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayClassMethod\ArrayClassMethod\obj\Debug\ArrayClassMethod.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayClassMethod\ArrayClassMethod\obj\Debug\ArrayClassMethod.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayClassMethod\ArrayClassMethod\obj\Debug\ArrayClassMethod.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayClassMethod\ArrayClassMethod\obj\Debug\ArrayClassMethod.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayClassMethod\ArrayClassMethod\obj\Debug\ArrayClassMethod.exe
+c:\users\ryu\documents\visual studio 2013\Projects\ArrayClassMethod\ArrayClassMethod\obj\Debug\ArrayClassMethod.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH06\ArrayClassMethod\ArrayClassMethod\bin\Debug\ArrayClassMethod.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH06\ArrayClassMethod\ArrayClassMethod\obj\Debug\ArrayClassMethod.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH06\ArrayClassMethod\ArrayClassMethod\obj\Debug\ArrayClassMethod.pdb

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RYUPC</Machine>
+    <WindowsUser>Ryu</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8e9dcf69-463c-4f56-a3ce-9041944fc56a</PackageIdentityName>
+    <RegisteredManifestChecksum>710346C779D410D3316F697225847BA06002DF3652095FF84EB71E3640F839B1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8e9dcf69-463c-4f56-a3ce-9041944fc56a_1.0.0.0_neutral__jyeq5te4pba1j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8e9dcf69-463c-4f56-a3ce-9041944fc56a_jyeq5te4pba1j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8e9dcf69-463c-4f56-a3ce-9041944fc56a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ryu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ryu\Documents\Visual Studio 2013\Projects\AppTest\AppTest\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-13T14:53:24.727</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ryu\Documents\Visual Studio 2013\Projects\AppTest\AppTest\bin\Debug\AppTest.exe">
+      <PackagePath>AppTest.exe</PackagePath>
+      <Modified>2013-12-14T10:37:00.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryu\Documents\Visual Studio 2013\Projects\AppTest\AppTest\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryu\Documents\Visual Studio 2013\Projects\AppTest\AppTest\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryu\Documents\Visual Studio 2013\Projects\AppTest\AppTest\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryu\Documents\Visual Studio 2013\Projects\AppTest\AppTest\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryu\Documents\Visual Studio 2013\Projects\AppTest\AppTest\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-12-13T14:53:23.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryu\Documents\Visual Studio 2013\Projects\AppTest\AppTest\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2013-12-14T10:36:59.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ryu\Documents\Visual Studio 2013\Projects\AppTest\AppTest\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-13T14:53:24.361</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

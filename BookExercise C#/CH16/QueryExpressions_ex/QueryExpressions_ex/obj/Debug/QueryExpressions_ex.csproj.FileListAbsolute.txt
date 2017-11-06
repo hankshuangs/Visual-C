@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\QueryExpressions_ex\QueryExpressions_ex\bin\Debug\QueryExpressions_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\QueryExpressions_ex\QueryExpressions_ex\bin\Debug\QueryExpressions_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\QueryExpressions_ex\QueryExpressions_ex\bin\Debug\QueryExpressions_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\QueryExpressions_ex\QueryExpressions_ex\obj\Debug\QueryExpressions_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\QueryExpressions_ex\QueryExpressions_ex\obj\Debug\QueryExpressions_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\QueryExpressions_ex\QueryExpressions_ex\obj\Debug\QueryExpressions_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\QueryExpressions_ex\QueryExpressions_ex\obj\Debug\QueryExpressions_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\QueryExpressions_ex\QueryExpressions_ex\obj\Debug\QueryExpressions_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\QueryExpressions_ex\QueryExpressions_ex\obj\Debug\QueryExpressions_ex.pdb

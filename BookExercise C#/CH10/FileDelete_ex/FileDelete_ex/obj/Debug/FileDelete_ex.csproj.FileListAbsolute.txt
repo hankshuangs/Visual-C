@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\FileDelete_ex\FileDelete_ex\bin\Debug\FileDelete_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\FileDelete_ex\FileDelete_ex\bin\Debug\FileDelete_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\FileDelete_ex\FileDelete_ex\bin\Debug\FileDelete_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\FileDelete_ex\FileDelete_ex\obj\Debug\FileDelete_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\FileDelete_ex\FileDelete_ex\obj\Debug\FileDelete_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\FileDelete_ex\FileDelete_ex\obj\Debug\FileDelete_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\FileDelete_ex\FileDelete_ex\obj\Debug\FileDelete_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\FileDelete_ex\FileDelete_ex\obj\Debug\FileDelete_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\FileDelete_ex\FileDelete_ex\obj\Debug\FileDelete_ex.pdb

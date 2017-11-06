@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Trim\StringMethods_Trim\bin\Debug\StringMethods_Trim.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Trim\StringMethods_Trim\bin\Debug\StringMethods_Trim.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Trim\StringMethods_Trim\bin\Debug\StringMethods_Trim.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Trim\StringMethods_Trim\obj\Debug\StringMethods_Trim.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Trim\StringMethods_Trim\obj\Debug\StringMethods_Trim.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Trim\StringMethods_Trim\obj\Debug\StringMethods_Trim.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Trim\StringMethods_Trim\obj\Debug\StringMethods_Trim.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Trim\StringMethods_Trim\obj\Debug\StringMethods_Trim.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Trim\StringMethods_Trim\obj\Debug\StringMethods_Trim.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Trim\StringMethods_Trim\bin\Debug\StringMethods_Trim.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Trim\StringMethods_Trim\obj\Debug\StringMethods_Trim.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Trim\StringMethods_Trim\obj\Debug\StringMethods_Trim.pdb

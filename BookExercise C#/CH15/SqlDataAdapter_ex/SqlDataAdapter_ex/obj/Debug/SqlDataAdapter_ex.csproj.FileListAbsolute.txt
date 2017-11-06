@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\SqlDataAdapter_ex\SqlDataAdapter_ex\bin\Debug\SqlDataAdapter_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\SqlDataAdapter_ex\SqlDataAdapter_ex\bin\Debug\SqlDataAdapter_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\SqlDataAdapter_ex\SqlDataAdapter_ex\bin\Debug\SqlDataAdapter_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\SqlDataAdapter_ex\SqlDataAdapter_ex\obj\Debug\SqlDataAdapter_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\SqlDataAdapter_ex\SqlDataAdapter_ex\obj\Debug\SqlDataAdapter_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\SqlDataAdapter_ex\SqlDataAdapter_ex\obj\Debug\SqlDataAdapter_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\SqlDataAdapter_ex\SqlDataAdapter_ex\obj\Debug\SqlDataAdapter_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\SqlDataAdapter_ex\SqlDataAdapter_ex\obj\Debug\SqlDataAdapter_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\SqlDataAdapter_ex\SqlDataAdapter_ex\obj\Debug\SqlDataAdapter_ex.pdb

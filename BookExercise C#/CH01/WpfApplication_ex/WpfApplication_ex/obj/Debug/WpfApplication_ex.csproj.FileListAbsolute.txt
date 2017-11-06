@@ -1,0 +1,13 @@
+c:\users\ryu\documents\visual studio 2013\Projects\WpfApplication_ex\WpfApplication_ex\bin\Debug\WpfApplication_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\WpfApplication_ex\WpfApplication_ex\bin\Debug\WpfApplication_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\WpfApplication_ex\WpfApplication_ex\bin\Debug\WpfApplication_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\WpfApplication_ex\WpfApplication_ex\obj\Debug\WpfApplication_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\WpfApplication_ex\WpfApplication_ex\obj\Debug\MainWindow.baml
+c:\users\ryu\documents\visual studio 2013\Projects\WpfApplication_ex\WpfApplication_ex\obj\Debug\MainWindow.g.cs
+c:\users\ryu\documents\visual studio 2013\Projects\WpfApplication_ex\WpfApplication_ex\obj\Debug\App.g.cs
+c:\users\ryu\documents\visual studio 2013\Projects\WpfApplication_ex\WpfApplication_ex\obj\Debug\WpfApplication_ex_MarkupCompile.cache
+c:\users\ryu\documents\visual studio 2013\Projects\WpfApplication_ex\WpfApplication_ex\obj\Debug\WpfApplication_ex.g.resources
+c:\users\ryu\documents\visual studio 2013\Projects\WpfApplication_ex\WpfApplication_ex\obj\Debug\WpfApplication_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\WpfApplication_ex\WpfApplication_ex\obj\Debug\WpfApplication_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\WpfApplication_ex\WpfApplication_ex\obj\Debug\WpfApplication_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\WpfApplication_ex\WpfApplication_ex\obj\Debug\WpfApplication_ex.pdb

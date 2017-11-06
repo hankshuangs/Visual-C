@@ -1,0 +1,10 @@
+c:\users\ryu\documents\visual studio 2013\Projects\MyResource\MyResource\bin\Debug\MyResource.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\MyResource\MyResource\bin\Debug\MyResource.exe
+c:\users\ryu\documents\visual studio 2013\Projects\MyResource\MyResource\bin\Debug\MyResource.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\MyResource\MyResource\obj\Debug\MyResource.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\MyResource\MyResource\obj\Debug\MyResource.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\MyResource\MyResource\obj\Debug\MyResource.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\MyResource\MyResource\obj\Debug\MyResource.Resource1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\MyResource\MyResource\obj\Debug\MyResource.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\MyResource\MyResource\obj\Debug\MyResource.exe
+c:\users\ryu\documents\visual studio 2013\Projects\MyResource\MyResource\obj\Debug\MyResource.pdb

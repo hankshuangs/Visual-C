@@ -1,0 +1,6 @@
+c:\users\ryu\documents\visual studio 2013\Projects\ParallelWatch_ex\ParallelWatch_ex\bin\Debug\ParallelWatch_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\ParallelWatch_ex\ParallelWatch_ex\bin\Debug\ParallelWatch_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\ParallelWatch_ex\ParallelWatch_ex\bin\Debug\ParallelWatch_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\ParallelWatch_ex\ParallelWatch_ex\obj\Debug\ParallelWatch_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\ParallelWatch_ex\ParallelWatch_ex\obj\Debug\ParallelWatch_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\ParallelWatch_ex\ParallelWatch_ex\obj\Debug\ParallelWatch_ex.pdb

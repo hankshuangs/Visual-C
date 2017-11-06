@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\Enum_ex\Enum_ex\bin\Debug\Enum_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\Enum_ex\Enum_ex\bin\Debug\Enum_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Enum_ex\Enum_ex\bin\Debug\Enum_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\Enum_ex\Enum_ex\obj\Debug\Enum_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\Enum_ex\Enum_ex\obj\Debug\Enum_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Enum_ex\Enum_ex\obj\Debug\Enum_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Enum_ex\Enum_ex\obj\Debug\Enum_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\Enum_ex\Enum_ex\obj\Debug\Enum_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Enum_ex\Enum_ex\obj\Debug\Enum_ex.pdb

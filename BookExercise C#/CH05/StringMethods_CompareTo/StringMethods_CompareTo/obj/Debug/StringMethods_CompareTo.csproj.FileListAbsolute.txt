@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_CompareTo\StringMethods_CompareTo\bin\Debug\StringMethods_CompareTo.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_CompareTo\StringMethods_CompareTo\bin\Debug\StringMethods_CompareTo.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_CompareTo\StringMethods_CompareTo\bin\Debug\StringMethods_CompareTo.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_CompareTo\StringMethods_CompareTo\obj\Debug\StringMethods_CompareTo.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_CompareTo\StringMethods_CompareTo\obj\Debug\StringMethods_CompareTo.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_CompareTo\StringMethods_CompareTo\obj\Debug\StringMethods_CompareTo.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_CompareTo\StringMethods_CompareTo\obj\Debug\StringMethods_CompareTo.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_CompareTo\StringMethods_CompareTo\obj\Debug\StringMethods_CompareTo.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_CompareTo\StringMethods_CompareTo\obj\Debug\StringMethods_CompareTo.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_CompareTo\StringMethods_CompareTo\bin\Debug\StringMethods_CompareTo.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_CompareTo\StringMethods_CompareTo\obj\Debug\StringMethods_CompareTo.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_CompareTo\StringMethods_CompareTo\obj\Debug\StringMethods_CompareTo.pdb

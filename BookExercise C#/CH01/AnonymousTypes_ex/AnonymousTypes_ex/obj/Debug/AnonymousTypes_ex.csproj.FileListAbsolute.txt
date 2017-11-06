@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\AnonymousTypes_ex\AnonymousTypes_ex\bin\Debug\AnonymousTypes_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\AnonymousTypes_ex\AnonymousTypes_ex\bin\Debug\AnonymousTypes_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\AnonymousTypes_ex\AnonymousTypes_ex\bin\Debug\AnonymousTypes_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\AnonymousTypes_ex\AnonymousTypes_ex\obj\Debug\AnonymousTypes_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\AnonymousTypes_ex\AnonymousTypes_ex\obj\Debug\AnonymousTypes_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\AnonymousTypes_ex\AnonymousTypes_ex\obj\Debug\AnonymousTypes_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\AnonymousTypes_ex\AnonymousTypes_ex\obj\Debug\AnonymousTypes_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\AnonymousTypes_ex\AnonymousTypes_ex\obj\Debug\AnonymousTypes_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\AnonymousTypes_ex\AnonymousTypes_ex\obj\Debug\AnonymousTypes_ex.pdb

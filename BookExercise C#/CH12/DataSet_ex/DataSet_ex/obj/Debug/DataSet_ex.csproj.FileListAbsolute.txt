@@ -1,0 +1,10 @@
+c:\users\ryu\documents\visual studio 2013\Projects\DataSet_ex\DataSet_ex\bin\Debug\DataSet_ex.exe.config
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\DataSet_ex\DataSet_ex\bin\Debug\CPC.mdb
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\DataSet_ex\DataSet_ex\bin\Debug\DataSet_ex.exe
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\DataSet_ex\DataSet_ex\bin\Debug\DataSet_ex.pdb
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.csprojResolveAssemblyReference.cache
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.Form1.resources
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.Properties.Resources.resources
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.csproj.GenerateResource.Cache
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.exe
+C:\Users\Ryu\Documents\Visual Studio 2013\Projects\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.pdb

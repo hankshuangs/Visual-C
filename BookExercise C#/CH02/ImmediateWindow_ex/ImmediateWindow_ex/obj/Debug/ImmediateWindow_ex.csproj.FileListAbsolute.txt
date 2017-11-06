@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\ImmediateWindow_ex\ImmediateWindow_ex\bin\Debug\ImmediateWindow_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\ImmediateWindow_ex\ImmediateWindow_ex\bin\Debug\ImmediateWindow_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\ImmediateWindow_ex\ImmediateWindow_ex\bin\Debug\ImmediateWindow_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\ImmediateWindow_ex\ImmediateWindow_ex\obj\Debug\ImmediateWindow_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\ImmediateWindow_ex\ImmediateWindow_ex\obj\Debug\ImmediateWindow_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\ImmediateWindow_ex\ImmediateWindow_ex\obj\Debug\ImmediateWindow_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\ImmediateWindow_ex\ImmediateWindow_ex\obj\Debug\ImmediateWindow_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\ImmediateWindow_ex\ImmediateWindow_ex\obj\Debug\ImmediateWindow_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\ImmediateWindow_ex\ImmediateWindow_ex\obj\Debug\ImmediateWindow_ex.pdb

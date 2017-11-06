@@ -1,0 +1,18 @@
+c:\users\ryu\documents\visual studio 2013\Projects\DataSet_ex\DataSet_ex\bin\Debug\DataSet_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\DataSet_ex\DataSet_ex\bin\Debug\DataSet_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\DataSet_ex\DataSet_ex\bin\Debug\DataSet_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.pdb
+C:\Users\Hanks\Documents\Visual Studio 2017\Projects\BookExercise C#\CH15\DataSet_ex\DataSet_ex\bin\Debug\DataSet_ex.exe.config
+C:\Users\Hanks\Documents\Visual Studio 2017\Projects\BookExercise C#\CH15\DataSet_ex\DataSet_ex\bin\Debug\DataSet_ex.exe
+C:\Users\Hanks\Documents\Visual Studio 2017\Projects\BookExercise C#\CH15\DataSet_ex\DataSet_ex\bin\Debug\DataSet_ex.pdb
+C:\Users\Hanks\Documents\Visual Studio 2017\Projects\BookExercise C#\CH15\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.csprojResolveAssemblyReference.cache
+C:\Users\Hanks\Documents\Visual Studio 2017\Projects\BookExercise C#\CH15\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.Form1.resources
+C:\Users\Hanks\Documents\Visual Studio 2017\Projects\BookExercise C#\CH15\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.Properties.Resources.resources
+C:\Users\Hanks\Documents\Visual Studio 2017\Projects\BookExercise C#\CH15\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.csproj.GenerateResource.Cache
+C:\Users\Hanks\Documents\Visual Studio 2017\Projects\BookExercise C#\CH15\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.exe
+C:\Users\Hanks\Documents\Visual Studio 2017\Projects\BookExercise C#\CH15\DataSet_ex\DataSet_ex\obj\Debug\DataSet_ex.pdb

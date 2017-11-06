@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\MyObject\MyObject\bin\Debug\MyObject.dll
+c:\users\ryu\documents\visual studio 2013\Projects\MyObject\MyObject\bin\Debug\MyObject.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\MyObject\MyObject\obj\Debug\MyObject.dll
+c:\users\ryu\documents\visual studio 2013\Projects\MyObject\MyObject\obj\Debug\MyObject.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH09\MyObject\MyObject\bin\Debug\MyObject.dll
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH09\MyObject\MyObject\bin\Debug\MyObject.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH09\MyObject\MyObject\obj\Debug\MyObject.csprojResolveAssemblyReference.cache
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH09\MyObject\MyObject\obj\Debug\MyObject.dll
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH09\MyObject\MyObject\obj\Debug\MyObject.pdb

@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\SQLServerIPConnection\SQLServerIPConnection\bin\Debug\SQLServerIPConnection.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\SQLServerIPConnection\SQLServerIPConnection\bin\Debug\SQLServerIPConnection.exe
+c:\users\ryu\documents\visual studio 2013\Projects\SQLServerIPConnection\SQLServerIPConnection\bin\Debug\SQLServerIPConnection.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\SQLServerIPConnection\SQLServerIPConnection\obj\Debug\SQLServerIPConnection.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\SQLServerIPConnection\SQLServerIPConnection\obj\Debug\SQLServerIPConnection.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\SQLServerIPConnection\SQLServerIPConnection\obj\Debug\SQLServerIPConnection.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\SQLServerIPConnection\SQLServerIPConnection\obj\Debug\SQLServerIPConnection.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\SQLServerIPConnection\SQLServerIPConnection\obj\Debug\SQLServerIPConnection.exe
+c:\users\ryu\documents\visual studio 2013\Projects\SQLServerIPConnection\SQLServerIPConnection\obj\Debug\SQLServerIPConnection.pdb

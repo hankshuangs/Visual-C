@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\AutoImplementedProperties_ex\AutoImplementedProperties_ex\bin\Debug\AutoImplementedProperties_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\AutoImplementedProperties_ex\AutoImplementedProperties_ex\bin\Debug\AutoImplementedProperties_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\AutoImplementedProperties_ex\AutoImplementedProperties_ex\bin\Debug\AutoImplementedProperties_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\AutoImplementedProperties_ex\AutoImplementedProperties_ex\obj\Debug\AutoImplementedProperties_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\AutoImplementedProperties_ex\AutoImplementedProperties_ex\obj\Debug\AutoImplementedProperties_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\AutoImplementedProperties_ex\AutoImplementedProperties_ex\obj\Debug\AutoImplementedProperties_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\AutoImplementedProperties_ex\AutoImplementedProperties_ex\obj\Debug\AutoImplementedProperties_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\AutoImplementedProperties_ex\AutoImplementedProperties_ex\obj\Debug\AutoImplementedProperties_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\AutoImplementedProperties_ex\AutoImplementedProperties_ex\obj\Debug\AutoImplementedProperties_ex.pdb

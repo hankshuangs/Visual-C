@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\SqlCommand_ex\SqlCommand_ex\bin\Debug\SqlCommand_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\SqlCommand_ex\SqlCommand_ex\bin\Debug\SqlCommand_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\SqlCommand_ex\SqlCommand_ex\bin\Debug\SqlCommand_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\SqlCommand_ex\SqlCommand_ex\obj\Debug\SqlCommand_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\SqlCommand_ex\SqlCommand_ex\obj\Debug\SqlCommand_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\SqlCommand_ex\SqlCommand_ex\obj\Debug\SqlCommand_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\SqlCommand_ex\SqlCommand_ex\obj\Debug\SqlCommand_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\SqlCommand_ex\SqlCommand_ex\obj\Debug\SqlCommand_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\SqlCommand_ex\SqlCommand_ex\obj\Debug\SqlCommand_ex.pdb

@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\Generics_ex\Generics_ex\bin\Debug\Generics_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\Generics_ex\Generics_ex\bin\Debug\Generics_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Generics_ex\Generics_ex\bin\Debug\Generics_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\Generics_ex\Generics_ex\obj\Debug\Generics_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\Generics_ex\Generics_ex\obj\Debug\Generics_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Generics_ex\Generics_ex\obj\Debug\Generics_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Generics_ex\Generics_ex\obj\Debug\Generics_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\Generics_ex\Generics_ex\obj\Debug\Generics_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Generics_ex\Generics_ex\obj\Debug\Generics_ex.pdb

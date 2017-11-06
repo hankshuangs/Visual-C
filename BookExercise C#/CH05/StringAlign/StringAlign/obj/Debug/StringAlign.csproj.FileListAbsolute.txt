@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\StringAlign\StringAlign\bin\Debug\StringAlign.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\StringAlign\StringAlign\bin\Debug\StringAlign.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringAlign\StringAlign\bin\Debug\StringAlign.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\StringAlign\StringAlign\obj\Debug\StringAlign.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringAlign\StringAlign\obj\Debug\StringAlign.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringAlign\StringAlign\obj\Debug\StringAlign.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringAlign\StringAlign\obj\Debug\StringAlign.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringAlign\StringAlign\obj\Debug\StringAlign.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringAlign\StringAlign\obj\Debug\StringAlign.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringAlign\StringAlign\bin\Debug\StringAlign.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringAlign\StringAlign\obj\Debug\StringAlign.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringAlign\StringAlign\obj\Debug\StringAlign.pdb

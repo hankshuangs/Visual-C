@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_AppendFormat\StringBuilderMethods_AppendFormat\bin\Debug\StringBuilderMethods_AppendFormat.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_AppendFormat\StringBuilderMethods_AppendFormat\bin\Debug\StringBuilderMethods_AppendFormat.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_AppendFormat\StringBuilderMethods_AppendFormat\bin\Debug\StringBuilderMethods_AppendFormat.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_AppendFormat\StringBuilderMethods_AppendFormat\obj\Debug\StringBuilderMethods_AppendFormat.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_AppendFormat\StringBuilderMethods_AppendFormat\obj\Debug\StringBuilderMethods_AppendFormat.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_AppendFormat\StringBuilderMethods_AppendFormat\obj\Debug\StringBuilderMethods_AppendFormat.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_AppendFormat\StringBuilderMethods_AppendFormat\obj\Debug\StringBuilderMethods_AppendFormat.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_AppendFormat\StringBuilderMethods_AppendFormat\obj\Debug\StringBuilderMethods_AppendFormat.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_AppendFormat\StringBuilderMethods_AppendFormat\obj\Debug\StringBuilderMethods_AppendFormat.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringBuilderMethods_AppendFormat\StringBuilderMethods_AppendFormat\bin\Debug\StringBuilderMethods_AppendFormat.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringBuilderMethods_AppendFormat\StringBuilderMethods_AppendFormat\obj\Debug\StringBuilderMethods_AppendFormat.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringBuilderMethods_AppendFormat\StringBuilderMethods_AppendFormat\obj\Debug\StringBuilderMethods_AppendFormat.pdb

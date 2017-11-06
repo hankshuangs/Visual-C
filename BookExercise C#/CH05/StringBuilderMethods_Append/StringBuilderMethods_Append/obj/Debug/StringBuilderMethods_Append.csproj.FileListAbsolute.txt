@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_Append\StringBuilderMethods_Append\bin\Debug\StringBuilderMethods_Append.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_Append\StringBuilderMethods_Append\bin\Debug\StringBuilderMethods_Append.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_Append\StringBuilderMethods_Append\bin\Debug\StringBuilderMethods_Append.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_Append\StringBuilderMethods_Append\obj\Debug\StringBuilderMethods_Append.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_Append\StringBuilderMethods_Append\obj\Debug\StringBuilderMethods_Append.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_Append\StringBuilderMethods_Append\obj\Debug\StringBuilderMethods_Append.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_Append\StringBuilderMethods_Append\obj\Debug\StringBuilderMethods_Append.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_Append\StringBuilderMethods_Append\obj\Debug\StringBuilderMethods_Append.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringBuilderMethods_Append\StringBuilderMethods_Append\obj\Debug\StringBuilderMethods_Append.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringBuilderMethods_Append\StringBuilderMethods_Append\bin\Debug\StringBuilderMethods_Append.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringBuilderMethods_Append\StringBuilderMethods_Append\obj\Debug\StringBuilderMethods_Append.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringBuilderMethods_Append\StringBuilderMethods_Append\obj\Debug\StringBuilderMethods_Append.pdb

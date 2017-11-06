@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MySettings.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Company" Type="System.String" Scope="User">
+      <Value Profile="(Default)">博碩文化集團</Value>
+    </Setting>
+    <Setting Name="CompanyAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">台北縣汐止市新台五路一段112號10樓A棟</Value>
+    </Setting>
+    <Setting Name="CompanyTel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">(02)-2696-2869</Value>
+    </Setting>
+    <Setting Name="CompanyCopyrights" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Copyright(c) 2014~2016 by Ching-Jung Hsu. All Rights Reserved.</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

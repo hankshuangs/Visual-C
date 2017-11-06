@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\AsOperators_ex\AsOperators_ex\bin\Debug\AsOperators_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\AsOperators_ex\AsOperators_ex\bin\Debug\AsOperators_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\AsOperators_ex\AsOperators_ex\bin\Debug\AsOperators_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\AsOperators_ex\AsOperators_ex\obj\Debug\AsOperators_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\AsOperators_ex\AsOperators_ex\obj\Debug\AsOperators_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\AsOperators_ex\AsOperators_ex\obj\Debug\AsOperators_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\AsOperators_ex\AsOperators_ex\obj\Debug\AsOperators_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\AsOperators_ex\AsOperators_ex\obj\Debug\AsOperators_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\AsOperators_ex\AsOperators_ex\obj\Debug\AsOperators_ex.pdb

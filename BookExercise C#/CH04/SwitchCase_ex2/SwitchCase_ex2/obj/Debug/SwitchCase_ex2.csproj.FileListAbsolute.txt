@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\SwitchCase_ex2\SwitchCase_ex2\bin\Debug\SwitchCase_ex2.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\SwitchCase_ex2\SwitchCase_ex2\bin\Debug\SwitchCase_ex2.exe
+c:\users\ryu\documents\visual studio 2013\Projects\SwitchCase_ex2\SwitchCase_ex2\bin\Debug\SwitchCase_ex2.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\SwitchCase_ex2\SwitchCase_ex2\obj\Debug\SwitchCase_ex2.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\SwitchCase_ex2\SwitchCase_ex2\obj\Debug\SwitchCase_ex2.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\SwitchCase_ex2\SwitchCase_ex2\obj\Debug\SwitchCase_ex2.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\SwitchCase_ex2\SwitchCase_ex2\obj\Debug\SwitchCase_ex2.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\SwitchCase_ex2\SwitchCase_ex2\obj\Debug\SwitchCase_ex2.exe
+c:\users\ryu\documents\visual studio 2013\Projects\SwitchCase_ex2\SwitchCase_ex2\obj\Debug\SwitchCase_ex2.pdb

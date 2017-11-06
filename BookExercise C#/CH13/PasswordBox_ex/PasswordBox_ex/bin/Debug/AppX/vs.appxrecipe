@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RYUPC</Machine>
+    <WindowsUser>Ryu</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0e871abc-1d29-46a9-9669-ab712ccb69a3</PackageIdentityName>
+    <RegisteredManifestChecksum>8252B35AAB338EBEA79F1C456E80839889078BFF47EC1BC90A698CBAD303B891</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>0e871abc-1d29-46a9-9669-ab712ccb69a3_1.0.0.0_neutral__jyeq5te4pba1j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>0e871abc-1d29-46a9-9669-ab712ccb69a3_jyeq5te4pba1j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>0e871abc-1d29-46a9-9669-ab712ccb69a3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ryu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\ryu\documents\visual studio 2013\Projects\PasswordBox_ex\PasswordBox_ex\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-16T09:40:49.632</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\PasswordBox_ex\PasswordBox_ex\bin\Debug\PasswordBox_ex.exe">
+      <PackagePath>PasswordBox_ex.exe</PackagePath>
+      <Modified>2013-12-16T09:44:54.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\PasswordBox_ex\PasswordBox_ex\Assets\logo.png">
+      <PackagePath>Assets\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-16T09:41:06.035</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\PasswordBox_ex\PasswordBox_ex\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\PasswordBox_ex\PasswordBox_ex\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\PasswordBox_ex\PasswordBox_ex\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\PasswordBox_ex\PasswordBox_ex\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\PasswordBox_ex\PasswordBox_ex\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-12-16T09:40:49.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\PasswordBox_ex\PasswordBox_ex\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2013-12-16T09:44:54.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\PasswordBox_ex\PasswordBox_ex\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-16T09:40:49.495</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

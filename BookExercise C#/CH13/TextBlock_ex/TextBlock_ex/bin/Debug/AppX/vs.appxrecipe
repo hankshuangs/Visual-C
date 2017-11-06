@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RYUPC</Machine>
+    <WindowsUser>Ryu</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c054701d-5ba8-4fd3-b025-4dd05226ee78</PackageIdentityName>
+    <RegisteredManifestChecksum>ECE62B5012BAB5E2E975A32B672310C37E18BAFB2EE07F1769A84C8AB67B22C5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c054701d-5ba8-4fd3-b025-4dd05226ee78_1.0.0.0_neutral__jyeq5te4pba1j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c054701d-5ba8-4fd3-b025-4dd05226ee78_jyeq5te4pba1j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c054701d-5ba8-4fd3-b025-4dd05226ee78</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ryu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\ryu\documents\visual studio 2013\Projects\TextBlock_ex\TextBlock_ex\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-16T03:11:36.714</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\TextBlock_ex\TextBlock_ex\bin\Debug\TextBlock_ex.exe">
+      <PackagePath>TextBlock_ex.exe</PackagePath>
+      <Modified>2013-12-16T03:17:37.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\TextBlock_ex\TextBlock_ex\Assets\logo.png">
+      <PackagePath>Assets\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-16T03:11:32.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\TextBlock_ex\TextBlock_ex\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\TextBlock_ex\TextBlock_ex\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\TextBlock_ex\TextBlock_ex\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\TextBlock_ex\TextBlock_ex\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\TextBlock_ex\TextBlock_ex\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-12-16T03:11:36.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\TextBlock_ex\TextBlock_ex\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2013-12-16T03:17:37.570</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\TextBlock_ex\TextBlock_ex\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-16T03:11:36.613</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

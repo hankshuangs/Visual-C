@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RYUPC</Machine>
+    <WindowsUser>Ryu</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>86d11cbf-f920-4a85-a86d-dd54ccc25847</PackageIdentityName>
+    <RegisteredManifestChecksum>2B1ECAC31240EBC4AEA4C2F78AB8827151214B73107F03E6C1BC68A89EE6110B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>86d11cbf-f920-4a85-a86d-dd54ccc25847_1.0.0.0_neutral__jyeq5te4pba1j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>86d11cbf-f920-4a85-a86d-dd54ccc25847_jyeq5te4pba1j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>86d11cbf-f920-4a85-a86d-dd54ccc25847</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ryu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH13\ComboBox_ex\ComboBox_ex\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-16T00:57:07.671</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH13\ComboBox_ex\ComboBox_ex\bin\Debug\ComboBox_ex.exe">
+      <PackagePath>ComboBox_ex.exe</PackagePath>
+      <Modified>2013-12-16T10:02:56.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH13\ComboBox_ex\ComboBox_ex\Assets\logo.png">
+      <PackagePath>Assets\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-16T00:45:28.858</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH13\ComboBox_ex\ComboBox_ex\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH13\ComboBox_ex\ComboBox_ex\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH13\ComboBox_ex\ComboBox_ex\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH13\ComboBox_ex\ComboBox_ex\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH13\ComboBox_ex\ComboBox_ex\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-12-16T00:39:31.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH13\ComboBox_ex\ComboBox_ex\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2013-12-16T00:57:07.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH13\ComboBox_ex\ComboBox_ex\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-16T00:57:07.459</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

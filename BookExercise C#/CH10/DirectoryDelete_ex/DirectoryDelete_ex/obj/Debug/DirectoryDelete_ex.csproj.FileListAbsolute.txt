@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\DirectoryDelete_ex\DirectoryDelete_ex\bin\Debug\DirectoryDelete_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\DirectoryDelete_ex\DirectoryDelete_ex\bin\Debug\DirectoryDelete_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\DirectoryDelete_ex\DirectoryDelete_ex\bin\Debug\DirectoryDelete_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\DirectoryDelete_ex\DirectoryDelete_ex\obj\Debug\DirectoryDelete_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\DirectoryDelete_ex\DirectoryDelete_ex\obj\Debug\DirectoryDelete_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\DirectoryDelete_ex\DirectoryDelete_ex\obj\Debug\DirectoryDelete_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\DirectoryDelete_ex\DirectoryDelete_ex\obj\Debug\DirectoryDelete_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\DirectoryDelete_ex\DirectoryDelete_ex\obj\Debug\DirectoryDelete_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\DirectoryDelete_ex\DirectoryDelete_ex\obj\Debug\DirectoryDelete_ex.pdb

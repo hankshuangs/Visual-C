@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="TextBlock_ex.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TextBlock_ex"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:Name="txtDemo" HorizontalAlignment="Left" Margin="440,76,0,0" TextWrapping="Wrap" Text="我是文字塊控制項" VerticalAlignment="Top" Height="213" Width="708" FontSize="16"/>
+        <StackPanel x:Name="stackPanel1" HorizontalAlignment="Left" Height="293" Margin="47,76,0,0" VerticalAlignment="Top" Width="339">
+            <Button x:ConnectionId='1' x:Name="btnText" Content="改變文字" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="62"                      />
+            <Button x:ConnectionId='2' x:Name="btnFont" Content="改變字型" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="50"                      />
+            <Button x:ConnectionId='3' x:Name="btnSize" Content="改變大小" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="51"                      />
+            <Button x:ConnectionId='4' x:Name="btnStyle" Content="改變樣式" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="54"                       />
+        </StackPanel>
+
+    </Grid>
+</Page>
+

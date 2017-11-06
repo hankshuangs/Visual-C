@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Substring\StringMethods_Substring\bin\Debug\StringMethods_Substring.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Substring\StringMethods_Substring\bin\Debug\StringMethods_Substring.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Substring\StringMethods_Substring\bin\Debug\StringMethods_Substring.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Substring\StringMethods_Substring\obj\Debug\StringMethods_Substring.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Substring\StringMethods_Substring\obj\Debug\StringMethods_Substring.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Substring\StringMethods_Substring\obj\Debug\StringMethods_Substring.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Substring\StringMethods_Substring\obj\Debug\StringMethods_Substring.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Substring\StringMethods_Substring\obj\Debug\StringMethods_Substring.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Substring\StringMethods_Substring\obj\Debug\StringMethods_Substring.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Substring\StringMethods_Substring\bin\Debug\StringMethods_Substring.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Substring\StringMethods_Substring\obj\Debug\StringMethods_Substring.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Substring\StringMethods_Substring\obj\Debug\StringMethods_Substring.pdb

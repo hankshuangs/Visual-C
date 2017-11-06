@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\FacadePattern_ex\FacadePattern_ex\bin\Debug\FacadePattern_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\FacadePattern_ex\FacadePattern_ex\obj\Debug\FacadePattern_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\FacadePattern_ex\FacadePattern_ex\obj\Debug\FacadePattern_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\FacadePattern_ex\FacadePattern_ex\obj\Debug\FacadePattern_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\FacadePattern_ex\FacadePattern_ex\obj\Debug\FacadePattern_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\FacadePattern_ex\FacadePattern_ex\bin\Debug\FacadePattern_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\FacadePattern_ex\FacadePattern_ex\bin\Debug\FacadePattern_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\FacadePattern_ex\FacadePattern_ex\obj\Debug\FacadePattern_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\FacadePattern_ex\FacadePattern_ex\obj\Debug\FacadePattern_ex.pdb

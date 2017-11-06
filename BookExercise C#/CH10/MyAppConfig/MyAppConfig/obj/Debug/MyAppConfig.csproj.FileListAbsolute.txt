@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\MyAppConfig\MyAppConfig\bin\Debug\MyAppConfig.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\MyAppConfig\MyAppConfig\obj\Debug\MyAppConfig.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\MyAppConfig\MyAppConfig\obj\Debug\MyAppConfig.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\MyAppConfig\MyAppConfig\obj\Debug\MyAppConfig.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\MyAppConfig\MyAppConfig\obj\Debug\MyAppConfig.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\MyAppConfig\MyAppConfig\bin\Debug\MyAppConfig.exe
+c:\users\ryu\documents\visual studio 2013\Projects\MyAppConfig\MyAppConfig\bin\Debug\MyAppConfig.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\MyAppConfig\MyAppConfig\obj\Debug\MyAppConfig.exe
+c:\users\ryu\documents\visual studio 2013\Projects\MyAppConfig\MyAppConfig\obj\Debug\MyAppConfig.pdb

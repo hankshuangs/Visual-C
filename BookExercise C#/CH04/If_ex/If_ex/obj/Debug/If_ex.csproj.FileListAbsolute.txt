@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\If_ex\If_ex\bin\Debug\If_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\If_ex\If_ex\bin\Debug\If_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\If_ex\If_ex\bin\Debug\If_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\If_ex\If_ex\obj\Debug\If_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\If_ex\If_ex\obj\Debug\If_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\If_ex\If_ex\obj\Debug\If_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\If_ex\If_ex\obj\Debug\If_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\If_ex\If_ex\obj\Debug\If_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\If_ex\If_ex\obj\Debug\If_ex.pdb

@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\Ordering_ex\Ordering_ex\bin\Debug\Ordering_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\Ordering_ex\Ordering_ex\bin\Debug\Ordering_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Ordering_ex\Ordering_ex\bin\Debug\Ordering_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\Ordering_ex\Ordering_ex\obj\Debug\Ordering_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\Ordering_ex\Ordering_ex\obj\Debug\Ordering_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Ordering_ex\Ordering_ex\obj\Debug\Ordering_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Ordering_ex\Ordering_ex\obj\Debug\Ordering_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\Ordering_ex\Ordering_ex\obj\Debug\Ordering_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Ordering_ex\Ordering_ex\obj\Debug\Ordering_ex.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH16\Ordering_ex\Ordering_ex\bin\Debug\Ordering_ex.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH16\Ordering_ex\Ordering_ex\obj\Debug\Ordering_ex.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH16\Ordering_ex\Ordering_ex\obj\Debug\Ordering_ex.pdb

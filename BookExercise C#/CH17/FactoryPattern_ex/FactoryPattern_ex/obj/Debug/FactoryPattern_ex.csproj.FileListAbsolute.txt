@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\FactoryPattern_ex\FactoryPattern_ex\bin\Debug\FactoryPattern_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\FactoryPattern_ex\FactoryPattern_ex\bin\Debug\FactoryPattern_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\FactoryPattern_ex\FactoryPattern_ex\bin\Debug\FactoryPattern_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\FactoryPattern_ex\FactoryPattern_ex\obj\Debug\FactoryPattern_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\FactoryPattern_ex\FactoryPattern_ex\obj\Debug\FactoryPattern_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\FactoryPattern_ex\FactoryPattern_ex\obj\Debug\FactoryPattern_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\FactoryPattern_ex\FactoryPattern_ex\obj\Debug\FactoryPattern_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\FactoryPattern_ex\FactoryPattern_ex\obj\Debug\FactoryPattern_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\FactoryPattern_ex\FactoryPattern_ex\obj\Debug\FactoryPattern_ex.pdb

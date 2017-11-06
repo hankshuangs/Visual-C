@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\ImplicitlyTypedArray\ImplicitlyTypedArray\bin\Debug\ImplicitlyTypedArray.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\ImplicitlyTypedArray\ImplicitlyTypedArray\obj\Debug\ImplicitlyTypedArray.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\ImplicitlyTypedArray\ImplicitlyTypedArray\obj\Debug\ImplicitlyTypedArray.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\ImplicitlyTypedArray\ImplicitlyTypedArray\obj\Debug\ImplicitlyTypedArray.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\ImplicitlyTypedArray\ImplicitlyTypedArray\obj\Debug\ImplicitlyTypedArray.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\ImplicitlyTypedArray\ImplicitlyTypedArray\bin\Debug\ImplicitlyTypedArray.exe
+c:\users\ryu\documents\visual studio 2013\Projects\ImplicitlyTypedArray\ImplicitlyTypedArray\bin\Debug\ImplicitlyTypedArray.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\ImplicitlyTypedArray\ImplicitlyTypedArray\obj\Debug\ImplicitlyTypedArray.exe
+c:\users\ryu\documents\visual studio 2013\Projects\ImplicitlyTypedArray\ImplicitlyTypedArray\obj\Debug\ImplicitlyTypedArray.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH06\ImplicitlyTypedArray\ImplicitlyTypedArray\bin\Debug\ImplicitlyTypedArray.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH06\ImplicitlyTypedArray\ImplicitlyTypedArray\obj\Debug\ImplicitlyTypedArray.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH06\ImplicitlyTypedArray\ImplicitlyTypedArray\obj\Debug\ImplicitlyTypedArray.pdb

@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Insert\StringMethods_Insert\bin\Debug\StringMethods_Insert.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Insert\StringMethods_Insert\bin\Debug\StringMethods_Insert.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Insert\StringMethods_Insert\bin\Debug\StringMethods_Insert.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Insert\StringMethods_Insert\obj\Debug\StringMethods_Insert.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Insert\StringMethods_Insert\obj\Debug\StringMethods_Insert.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Insert\StringMethods_Insert\obj\Debug\StringMethods_Insert.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Insert\StringMethods_Insert\obj\Debug\StringMethods_Insert.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Insert\StringMethods_Insert\obj\Debug\StringMethods_Insert.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Insert\StringMethods_Insert\obj\Debug\StringMethods_Insert.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Insert\StringMethods_Insert\bin\Debug\StringMethods_Insert.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Insert\StringMethods_Insert\obj\Debug\StringMethods_Insert.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Insert\StringMethods_Insert\obj\Debug\StringMethods_Insert.pdb

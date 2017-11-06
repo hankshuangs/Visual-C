@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\UseVBMyObject\UseVBMyObject\bin\Debug\UseVBMyObject.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\UseVBMyObject\UseVBMyObject\bin\Debug\UseVBMyObject.exe
+c:\users\ryu\documents\visual studio 2013\Projects\UseVBMyObject\UseVBMyObject\bin\Debug\UseVBMyObject.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\UseVBMyObject\UseVBMyObject\obj\Debug\UseVBMyObject.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\UseVBMyObject\UseVBMyObject\obj\Debug\UseVBMyObject.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\UseVBMyObject\UseVBMyObject\obj\Debug\UseVBMyObject.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\UseVBMyObject\UseVBMyObject\obj\Debug\UseVBMyObject.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\UseVBMyObject\UseVBMyObject\obj\Debug\UseVBMyObject.exe
+c:\users\ryu\documents\visual studio 2013\Projects\UseVBMyObject\UseVBMyObject\obj\Debug\UseVBMyObject.pdb

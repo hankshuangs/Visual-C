@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\SqlConnectionStringBuilder_ex\SqlConnectionStringBuilder_ex\bin\Debug\SqlConnectionStringBuilder_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\SqlConnectionStringBuilder_ex\SqlConnectionStringBuilder_ex\bin\Debug\SqlConnectionStringBuilder_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\SqlConnectionStringBuilder_ex\SqlConnectionStringBuilder_ex\bin\Debug\SqlConnectionStringBuilder_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\SqlConnectionStringBuilder_ex\SqlConnectionStringBuilder_ex\obj\Debug\SqlConnectionStringBuilder_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\SqlConnectionStringBuilder_ex\SqlConnectionStringBuilder_ex\obj\Debug\SqlConnectionStringBuilder_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\SqlConnectionStringBuilder_ex\SqlConnectionStringBuilder_ex\obj\Debug\SqlConnectionStringBuilder_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\SqlConnectionStringBuilder_ex\SqlConnectionStringBuilder_ex\obj\Debug\SqlConnectionStringBuilder_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\SqlConnectionStringBuilder_ex\SqlConnectionStringBuilder_ex\obj\Debug\SqlConnectionStringBuilder_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\SqlConnectionStringBuilder_ex\SqlConnectionStringBuilder_ex\obj\Debug\SqlConnectionStringBuilder_ex.pdb

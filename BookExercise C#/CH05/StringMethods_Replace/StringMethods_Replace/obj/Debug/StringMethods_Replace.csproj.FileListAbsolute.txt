@@ -1,0 +1,12 @@
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Replace\StringMethods_Replace\bin\Debug\StringMethods_Replace.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Replace\StringMethods_Replace\bin\Debug\StringMethods_Replace.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Replace\StringMethods_Replace\bin\Debug\StringMethods_Replace.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Replace\StringMethods_Replace\obj\Debug\StringMethods_Replace.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Replace\StringMethods_Replace\obj\Debug\StringMethods_Replace.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Replace\StringMethods_Replace\obj\Debug\StringMethods_Replace.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Replace\StringMethods_Replace\obj\Debug\StringMethods_Replace.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Replace\StringMethods_Replace\obj\Debug\StringMethods_Replace.exe
+c:\users\ryu\documents\visual studio 2013\Projects\StringMethods_Replace\StringMethods_Replace\obj\Debug\StringMethods_Replace.pdb
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Replace\StringMethods_Replace\bin\Debug\StringMethods_Replace.exe.config
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Replace\StringMethods_Replace\obj\Debug\StringMethods_Replace.exe
+D:\電腦著作作品集\17-Visual C# 2013程式設計實例演練與系統開發\Reader\程式範例\CH05\StringMethods_Replace\StringMethods_Replace\obj\Debug\StringMethods_Replace.pdb

@@ -1,0 +1,1 @@
+c:\users\ryu\documents\visual studio 2013\Projects\TextBlock_ex\TextBlock_ex\TextBlock_ex.csproj;neutral

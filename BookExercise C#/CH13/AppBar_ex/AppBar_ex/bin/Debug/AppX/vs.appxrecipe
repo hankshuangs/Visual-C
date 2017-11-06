@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RYUPC</Machine>
+    <WindowsUser>Ryu</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9cb256a5-458a-4529-a6b4-37e56815ab8f</PackageIdentityName>
+    <RegisteredManifestChecksum>82B0E00BA993D55206B50D4044D84976C196E208258BB09BFA4E9B6AD42963E9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9cb256a5-458a-4529-a6b4-37e56815ab8f_1.0.0.0_neutral__jyeq5te4pba1j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9cb256a5-458a-4529-a6b4-37e56815ab8f_jyeq5te4pba1j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9cb256a5-458a-4529-a6b4-37e56815ab8f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ryu</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-16T13:02:13.026</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\bin\Debug\AppBar_ex.exe">
+      <PackagePath>AppBar_ex.exe</PackagePath>
+      <Modified>2013-12-16T13:12:45.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\Assets\CSharp.png">
+      <PackagePath>Assets\CSharp.png</PackagePath>
+      <Modified>2013-12-16T13:07:24.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\Assets\Photo01.png">
+      <PackagePath>Assets\Photo01.png</PackagePath>
+      <Modified>2013-12-16T12:58:22.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\Assets\Photo02.png">
+      <PackagePath>Assets\Photo02.png</PackagePath>
+      <Modified>2013-12-16T12:58:22.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\Assets\Photo03.png">
+      <PackagePath>Assets\Photo03.png</PackagePath>
+      <Modified>2013-12-16T12:58:22.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\Assets\Photo04.png">
+      <PackagePath>Assets\Photo04.png</PackagePath>
+      <Modified>2013-12-16T12:58:22.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\Assets\Photo05.png">
+      <PackagePath>Assets\Photo05.png</PackagePath>
+      <Modified>2013-12-16T12:58:22.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T16:46:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-12-16T13:02:12.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2013-12-16T13:12:45.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\ryu\documents\visual studio 2013\Projects\AppBar_ex\AppBar_ex\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-16T13:02:12.920</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

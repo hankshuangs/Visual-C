@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\Variable_ex\Variable_ex\bin\Debug\Variable_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\Variable_ex\Variable_ex\bin\Debug\Variable_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Variable_ex\Variable_ex\bin\Debug\Variable_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\Variable_ex\Variable_ex\obj\Debug\Variable_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\Variable_ex\Variable_ex\obj\Debug\Variable_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Variable_ex\Variable_ex\obj\Debug\Variable_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\Variable_ex\Variable_ex\obj\Debug\Variable_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\Variable_ex\Variable_ex\obj\Debug\Variable_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\Variable_ex\Variable_ex\obj\Debug\Variable_ex.pdb

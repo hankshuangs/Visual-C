@@ -1,0 +1,9 @@
+c:\users\ryu\documents\visual studio 2013\Projects\CharMethods_ex\CharMethods_ex\bin\Debug\CharMethods_ex.exe.config
+c:\users\ryu\documents\visual studio 2013\Projects\CharMethods_ex\CharMethods_ex\bin\Debug\CharMethods_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\CharMethods_ex\CharMethods_ex\bin\Debug\CharMethods_ex.pdb
+c:\users\ryu\documents\visual studio 2013\Projects\CharMethods_ex\CharMethods_ex\obj\Debug\CharMethods_ex.csprojResolveAssemblyReference.cache
+c:\users\ryu\documents\visual studio 2013\Projects\CharMethods_ex\CharMethods_ex\obj\Debug\CharMethods_ex.Form1.resources
+c:\users\ryu\documents\visual studio 2013\Projects\CharMethods_ex\CharMethods_ex\obj\Debug\CharMethods_ex.Properties.Resources.resources
+c:\users\ryu\documents\visual studio 2013\Projects\CharMethods_ex\CharMethods_ex\obj\Debug\CharMethods_ex.csproj.GenerateResource.Cache
+c:\users\ryu\documents\visual studio 2013\Projects\CharMethods_ex\CharMethods_ex\obj\Debug\CharMethods_ex.exe
+c:\users\ryu\documents\visual studio 2013\Projects\CharMethods_ex\CharMethods_ex\obj\Debug\CharMethods_ex.pdb
